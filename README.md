@@ -5,7 +5,7 @@
 The **Simon Game** is a fun memory-based game where the player has to mimic an increasing sequence of colors and sounds. Each round adds a new step to the sequence, challenging the player to recall and repeat it accurately.
 
 ### **Access the Deployed App**
-Click [here](https://umarskh.github.io/Simon-Game/) to access the live application.
+Click [here](https://simon-game-steel-nine.vercel.app/) to access the live application.
 
 ---
 
@@ -33,7 +33,7 @@ Click [here](https://umarskh.github.io/Simon-Game/) to access the live applicati
 ## **4. How To Play**
 
 ### **I. Access the App**
-- For production: Use the deployed URL [here](https://umarskh.github.io/Simon-Game/).
+- For production: Use the deployed URL [here](https://simon-game-steel-nine.vercel.app/).
 - For development: Open `http://localhost:3000` in your browser.
 
 ### **II. Game Instructions**
